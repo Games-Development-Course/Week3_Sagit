@@ -1,4 +1,5 @@
 # Weekly Assignment 3
+[click here to play on itch io](https://gamedevteamx.itch.io/sagitweek3)
 
 <div dir="rtl">
 
